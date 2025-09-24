@@ -28,3 +28,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=FcoJavierVGizv&screen_effect=true&theme=blue_chill">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=FcoJavierVGizv&theme=summer">
 </picture>
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=FcoJavierVGizv&layout=compact&theme=radical&hide=swift,csharp'/>
